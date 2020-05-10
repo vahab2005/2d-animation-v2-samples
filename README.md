@@ -1,6 +1,8 @@
 # 2D Animation v2 Samples
 This repository contains samples for 2D Animation v2 features to be used with Unity 2018.3
 
+![Screenshot](2dspringbone.gif)
+
 ## In this version
 * A unified Skinning Editor module in the Sprite Editor window, giving you a much tighter sprite rigging iteration loop.
 * Support for Multiple Sprite Single Character rigging workflows through 2D PSD Importer Package.
